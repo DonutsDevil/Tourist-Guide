@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LocalAreas">
+
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout_haunted_local_places"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#b388ff"
+        app:tabSelectedTextColor="@color/cardview_light_background"
+        app:tabIconTint="@color/design_default_color_on_secondary"
+        app:tabIndicatorHeight="3dp"
+        app:tabIndicatorColor="@color/design_default_color_background"
+        app:tabMode="fixed"
+        app:tabPaddingBottom="8dp"
+        app:tabPaddingTop="15dp">
+
+    <com.google.android.material.tabs.TabItem
+        android:id="@+id/Haunted_frag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/haunted"
+        android:text="@string/haunted" />
+
+    <com.google.android.material.tabs.TabItem
+        android:id="@+id/secrete_frag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/secretespot"
+        android:text="@string/secrete_spots" />
+    </com.google.android.material.tabs.TabLayout>
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewpager2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+</LinearLayout>

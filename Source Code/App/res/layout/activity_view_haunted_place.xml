@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ViewHauntedPlace">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/arrey_colony_places"
+        android:scaleType="centerCrop"
+        android:id="@+id/image_haunted"/>
+    <TextView
+        android:id="@+id/title_places"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="@string/title_aarey_colony"
+        android:layout_marginTop="-35dp"
+        android:textColor="#C8FFFFFF"
+        android:textSize="25sp"
+        android:fontFamily="serif-monospace"/>
+
+    <TextView
+        android:id="@+id/describe_haunted_places"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.6"
+        android:layout_marginTop="6dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:background="@drawable/bgsec"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:textSize="22sp"
+        tools:text="@string/des_aarey_colony" />
+
+
+
+</LinearLayout>

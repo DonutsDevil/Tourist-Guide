@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/Text_Layout"
+    android:orientation="vertical"
+    android:background="@drawable/bgsec"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/arrey_colony_places"
+        android:scaleType="centerCrop"
+        android:id="@+id/image_view_hotPlace"/>
+    <TextView
+        android:id="@+id/title_view_hotSpots"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="@string/title_aarey_colony"
+        android:layout_marginTop="-35dp"
+        android:textColor="#C8FFFFFF"
+        android:textSize="25sp"
+        android:fontFamily="serif-monospace"/>
+
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:id="@+id/address_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/address"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:text="@string/address"
+            android:textColor="@color/material_on_background_emphasis_medium"
+            android:fontFamily="sans-serif-medium"
+            android:textSize="19sp"
+            />
+
+        <TextView
+            android:layout_marginLeft="5dp"
+            android:id="@+id/address_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/material_on_background_emphasis_medium"
+            android:textSize="16sp"
+            android:fontFamily="sans-serif-black"
+            tools:text="@string/bandstand_address"/>
+    </LinearLayout>
+    <TextView
+        android:layout_marginTop="9dp"
+        android:id="@+id/description_hotSpots"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textSize="19sp"
+        android:textColor="@color/material_on_surface_emphasis_medium"
+        tools:textColor="@color/material_on_primary_emphasis_medium"
+        tools:text="@string/bandstand_des" />
+
+</LinearLayout>

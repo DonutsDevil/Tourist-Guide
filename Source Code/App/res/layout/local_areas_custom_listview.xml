@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/Text_Layout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_width="match_parent"
+        tools:src="@drawable/aarey_milk_colony"
+        android:layout_height="250dp"/>
+
+    <TextView
+        android:id="@+id/title_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_view"
+        android:layout_marginTop="-35dp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="48dp"
+        tools:text="Aarey Milk Colony"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@id/image_view"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/material_on_primary_emphasis_medium"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textSize="19sp"
+        tools:text="@string/description_Nasserwanji_wadi" />
+
+</RelativeLayout>

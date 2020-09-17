@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_width="250dp"
+        android:layout_height="150dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        >
+
+        <TextView
+            android:id="@+id/title_place"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="this place name"
+            android:textSize="20sp"
+            />
+        <View
+            android:id="@+id/line_views"
+            android:layout_width="wrap_content"
+            android:layout_below="@id/title_place"
+            android:layout_height="3dp"
+            android:background="#A39B9B"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_below="@id/line_views"
+            tools:text="this place is cdsv csdds csdvsdv dvsdvsd vdsvdsv dvsdvd vsdv dvsdv"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

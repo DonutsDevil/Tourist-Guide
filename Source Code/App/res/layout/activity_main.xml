@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgsec"
+    android:layout_width="match_parent">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#C0000000"/>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="70dp"
+    android:id="@+id/mainLinearLayout"
+    android:orientation="horizontal"
+    tools:context=".MainActivity"
+    android:baselineAligned="false">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:paddingRight="20dp"
+        android:paddingLeft="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/Front_Navigation"
+            android:textColor="@color/design_default_color_surface"
+            android:text="@string/places_one_should_nvisit_in_mumbai"
+            />
+
+        <Button
+            android:id="@+id/locationMarker"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/places"
+            android:textColor="#000000"
+            app:icon="@drawable/hotspot"/>
+    </LinearLayout>
+    <View
+        android:layout_width="2dp"
+        android:layout_height="200dp"
+        android:background="@android:color/darker_gray"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:paddingLeft="20dp"
+        android:paddingRight="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/Front_Navigation"
+            android:textColor="@color/design_default_color_surface"
+            android:text="@string/Hidden_spaces"
+            />
+
+        <Button
+            android:id="@+id/Locals_Area"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/hidden"
+            android:textColor="#000000"
+            app:icon="@drawable/localareas"/>
+    </LinearLayout>
+</LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/AAMACHI_MUMBAI"
+        android:gravity="center"
+        android:paddingTop="50dp"
+        android:paddingBottom="15dp"
+        android:textColor="#ABD3D1D6"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-thin"
+        android:textStyle="bold"
+        android:layout_below="@id/mainLinearLayout"
+        android:text="@string/AAMACHImumbai"/>
+
+
+    <Spinner
+        android:id="@+id/static_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+    <RelativeLayout
+        android:id="@+id/videoView_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/static_spinner"
+        android:layout_marginTop="30dp"/>
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@id/static_spinner"
+        android:layout_width="match_parent"
+
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_height="match_parent" />
+
+
+</RelativeLayout>

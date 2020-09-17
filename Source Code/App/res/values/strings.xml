@@ -1,0 +1,327 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tourist Guide</string>
+    <string name="places_one_should_nvisit_in_mumbai">Places One Should\nVisit In Mumbai\n\n\n</string>
+    <string name="places">Hot Spots</string>
+    <string name="hidden">Local Areas</string>
+    <string name="Hidden_spaces">Local Places\nOften Are Hidden\nBut We Got You\n\n</string>
+    <string name="AAMACHImumbai">Activities And Events Occurring In\nAAAMCHI MUMBAI</string>
+    <string name="footbal_link"><a href="">Tap To Know More</a></string>
+    <string name="cricket_link"><a href="">Tap To Know More</a></string>
+    <string name="Info_football">The All India Football Federation (AIFF), in August this year, put together a total of 10 webinars in order to explain the intricacies of the Golden Baby Leagues in different…</string>
+    <string name="info_cricket">MUMBAI: The Mumbai Cricket Association on Monday announced that its newly formed Cricket Improvement Committe will conduct candidates for various position, including that of senior mens\'s…</string>
+    <string name="info_hockey">The Bombay Provincial Hockey Association Ltd which was originally incorporated on 2nd October, 1934 in British / India people formed an Association. The Bombay Provincial Hockey Association…</string>
+    <string name="hockey_link"><a href="">Tap To Know More</a></string>
+    <string name="kabbadi_link"><a href="">Tap To Know More</a></string>
+    <string name="info_kab">Indian national kabaddi team captain and vivo Pro Kabaddi star Deepak Niwas Hooda, who led India to a gold medal at the South Asian Games last year, has won the prestigious Arjuna Award…</string>
+    <string name="kala_ghoda_event">This 9-day festival, celebrated in the beginning of every year, is now synonymous with the city of Mumbai. Celebrating a variety of art forms like music, dance, theatre, drama, art, photography, etc.,</string>
+    <string name="khal_ghoda_link"><a href=""> Tap To Know More</a></string>
+    <string name="comic_con">Pop culture aficionados have a reason to celebrate every winter now, thanks to this haven that they call home for a full weekend. The very first Comic Con was held in Delhi in 2011 and since then, there’s no looking back.</string>
+    <string name="comic_con_link"><a href="">Tap To Know  More</a></string>
+    <string name="mumbai_pride_info">All through the month of February, Queer Azadi is organising Pride Month. They\'ve got a line-up of events through February 1st, that continue all through the month. From pride walks to workshops, theatre, parties…</string>
+    <string name="mumbai_pride_link"><a href="">Tap To Know More</a></string>
+    <string name="spoken_fest_info">For all you budding poets, writers and lovers of spoken word and slam poetry, Spoken Fest 2020 is your call to spend 2 days experiencing the best of this art form. From up and coming</string>
+    <string name="spoken_fest_link"><a href="">Tap To Know More</a></string>
+    <string name="pet_fed_info">Pet Fed is India\'s largest pet festival that\'s perfect for all you pet lovers. The festival\'s got a stellar line up of fun events from pet fashion shows, stage shows, adoption camps, a police dog show…</string>
+    <string name="pet_fed_link"><a href="">Tap To Know More</a></string>
+    <string name="techfes_info">For all you techies, tech enthusiasts and those with a curious mind who love all things science and technology, we\'ve got one for you. Now considered to be the largest science and technology festival in Asia…</string>
+    <string name="techfest_link"><a href="">Tap To Know More</a></string>
+    <string name="secrete_spots">Secrete Spots</string>
+    <string name="haunted">Haunted</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_aarey_colony">This luscious green spot in the city also happens to be one of the most notoriously haunted places in Mumbai. By day, it’s a pretty spot to take a walk in. But by night? Well, let’s just say you’d do better to avoid it. For years, people have reported incidents from the Aarey Colony road which connects the Western Express Highway to JVLR. People often see the lone figure of a lady in white following cars…</string>
+    <string name="title_aarey_colony">Aarey Milk Colony</string>
+    <string name="title_Nasserwanji_Wadi">Nasserwanji Wadi</string>
+    <string name="description_Nasserwanji_wadi">Legend has it that this old compound, not far from Mahim Station, was once owned by a Parsi gentleman named Nasserwanji. Brutally murdered (it is said that he was burned alive!) and buried in a well on his own property, rumour has it that the dedicated landlord still looms around the spot of his gruesome death and burial. In fact, nowadays the place is actually considered to be cursed…</string>
+    <string name="title_vrindavan_society">Vrindavan Society</string>
+    <string name="description_Vrindavan_Society">If there was ever a place in Mumbai that perfectly defined the term ‘oxymoron’, it’s this one. Considered to be one of the most famous and posh societies in the city, Vrindavan Society also holds the dubious honour of being counted amongst the most haunted spots in Mumbai. Night security guards swear by the fact that it’s haunted, some say by the ghost of an old man, who used to live in building 66B and …</string>
+    <string name="title_dsouza_chawl">D’Souza Chawl</string>
+    <string name="description_dsouza_chawl">D’Souza Chawl can proudly stake claim to being the most haunted house in Mumbai. After all, its creepy and eerie haunting is rooted in the story of an old woman who had died here by falling in a well. The well did not have a boundary wall around it, and so when the woman was getting water from it, she accidentally slipped and fell inside the deep well, dying a tragic death. Since then, it is said that the old woman’s spirit…</string>
+    <string name="title_poonam_chambers">Poonam Chambers</string>;
+    <string name="description_poonam_chambers">Located in Worli, it seems like the Poonam Chambers are possibly the most tragedy-prone place in the city. Especially after the 1993 Mumbai bomb blasts, and the 1997 collapse of the B-wing, one can be forgiven for thinking twice before visiting them. And that’s even before one takes into account all of the strange and paranormal incidents that have been occurring here recently…</string>
+
+    <string name="sion_fort">Sion Fort</string>
+    <string name="description_sion_fort">Mumbai, the city that never sleeps is altogether different on early weekend mornings. The whole city takes a short respite from otherwise non-stop bustle of city-life. On one such quaint morning, we went to Sion Fort Nature Walk. The walk, led by biodiversity experts Gauri and Dr. Shreya was a wonderful experience…</string>
+
+    <string name="diamond_garden">Diamond Garden</string>
+    <string name="description_diamond_garden">Drawing in morning walkers, senior citizens, outdoor gym aficionados, and dog walkers, Diamond Garden is Chembur’s most famous garden. It boasts of a GNAT MK1 E325 fighter jet flown by two pilots from Mumbai, which was part of the Winged Arrow squadron in the IAF since 1962 and fought Pakistani F100 Super Sabres in the Indo-Pak 1971 war. The plane was returned to the Mayor of Mumbai in 1989 and is now housed in this garden..</string>
+
+    <string name="upvan_lake">Upvan Lake</string>
+    <string name="description_upvan_lake">The lake city ‘Thane’ as it is called has many artificial and natural lakes. Of all, 2 famous and most visited lakes are Masunda (Also called ‘Talao Pali’) lake ans Upvan Lake at Pokhran Village near hilly slopes of Yeoor (Park of National Park), Both with attractions and ideal for family and friends.</string>
+
+    <string name="dharavi">Dharavi</string>
+    <string name="description_dharavi">Dharavi is a locality in Mumbai, Maharashtra, India, considered to be one of Asia\'s largest slums.Dharavi has an area of just over 2.1 square kilometres (0.81 sq mi; 520 acres)and a population of about 1,000,000. With a population density of over 277,136/km2 (717,780/sq mi), Dharavi is one of the most densely populated areas in the world.</string>
+
+    <string name="chota_khasmir">Chhota Kashmir</string>
+    <string name="description_chota_khasmir">Nothing soothes better than a lake, and the same holds quite true for this little place that goes by the name Chhota Kashmir. Placed in one of the busy areas of the city, this place possesses a lake which is very centrally placed and is a complete treat for the eyes owing to its thick green cover and boating facilities.</string>
+
+    <!--    this part has the strings of ViewHauntedPlaces  where full Description is written-->
+    <string name="des_aarey_colony">This luscious green spot in the city also happens to be one of the most notoriously haunted places in Mumbai. By day, it’s a pretty spot to take a walk in. But by night? Well, let’s just say you’d do better to avoid it. For years, people have reported incidents from the Aarey Colony road which connects the Western Express Highway to JVLR. People often see the lone figure of a lady in white following cars, while drivers have reported seeing a similar figure following them through their rear view mirrors, and no matter how fast or slow they go, the lady in white always maintains exactly the same distance from them. Others have reported seeing a lady covered in injuries weeping on the side of the road, who runs after their car.</string>
+    <string name="des_nasserwanji_wadi">Legend has it that this old compound, not far from Mahim Station, was once owned by a Parsi gentleman named Nasserwanji. Brutally murdered (it is said that he was burned alive!) and buried in a well on his own property, rumour has it that the dedicated landlord still looms around the spot of his gruesome death and burial. In fact, nowadays the place is actually considered to be cursed, what with more than seven people having died here under mysterious circumstances since Nasserwanji’s own death. There have also been cases of people trying to trespass and enter this property, only to feel a strange, eerie and stinging sensation on their faces. Those brave enough to venture here should be careful.</string>
+    <string name="des_vrindavan_society">If there was ever a place in Mumbai that perfectly defined the term ‘oxymoron’, it’s this one. Considered to be one of the most famous and posh societies in the city, Vrindavan Society also holds the dubious honour of being counted amongst the most haunted spots in Mumbai. Night security guards swear by the fact that it’s haunted, some say by the ghost of an old man, who used to live in building 66B and who took his own life here. Numerous guards who have fallen asleep on the job claim to have received a slap that jolted them awake…. only to open their eyes and find no one standing there! Other stories claim that guards on patrol have heard mysterious whispers right next to their ears when they were actually all alone.</string>
+    <string name="des_dsouza_chawl">D’Souza Chawl can proudly stake claim to being the most haunted house in Mumbai. After all, its creepy and eerie haunting is rooted in the story of an old woman who had died here by falling in a well. The well did not have a boundary wall around it, and so when the woman was getting water from it, she accidentally slipped and fell inside the deep well, dying a tragic death. Since then, it is said that the old woman’s spirit continues to roam around the chawl after sunset, particularly around the well where she had died. There have been numerous accounts of residents of the chawl claiming to have seen unnatural shadows, along with the creepy apparitions of the old woman herself. </string>
+    <string name="des_poonam_chamber">Located in Worli, it seems like the Poonam Chambers are possibly the most tragedy-prone place in the city. Especially after the 1993 Mumbai bomb blasts, and the 1997 collapse of the B-wing, one can be forgiven for thinking twice before visiting them. And that’s even before one takes into account all of the strange and paranormal incidents that have been occurring here recently. Watchmen and people working late night shifts here have experienced eerie events like the rattling of doors, as well as doors being knocked in the infamous B-wing. It is said that the spirits of those who were tragically killed here in 1993 and 1997 are responsible for this. So rest assured, one should visit Poonam Chambers.</string>
+
+    <!--    this part has the strings of ViewHauntedPlaces (secretePlace) where full Description is written-->
+    <string name="des_sion_fort">Just about 500 metres away from Sion station sits the Sion Fort. Built under the British regime between 1669 and 1677 atop a conical hillock, Sion Fort marked the boundary between British-held Parel island and the Portuguese held Salsette Island.It’s a blessing in disguise for those looking to hear the chirping of birds, feel the gush of clean air and a bird’s eye view of the city. We were welcomed by a beautiful stair-cased garden known as Pandit Jawaharlal Nehru Udyan. The garden has numerous arched bridges/staircases leading to greener patches. When we looked up, the fort was looking back at us with all its might and grandeur.The premise is thronged by college students (there’s a college nearby).</string>
+    <string name="des_diamond_garden">Drawing in morning walkers, senior citizens, outdoor gym aficionados, and dog walkers, Diamond Garden is Chembur’s most famous garden. It boasts of a GNAT MK1 E325 fighter jet flown by two pilots from Mumbai, which was part of the Winged Arrow squadron in the IAF since 1962 and fought Pakistani F100 Super Sabres in the Indo-Pak 1971 war. The plane was returned to the Mayor of Mumbai in 1989 and is now housed in this garden, marking it out as a real landmark. Diamond Garden often makes an alternative meeting point to coffee shops. Curiously enough, a sign on the gate says that school and college children are not allowed in the garden – presumably during the day or unaccompanied by parents.</string>
+    <string name="des_upvan_lake">Upvan lake is a perfect setting for a picnic with your family or simply a stroll with your lover. Also known as Thane’s Lover’s Paradise, the lake was once used as a major source of water supply in the city. Now, however, it is used solely for recreational purposes with several activities being provided.At the centre of the lake, lies a statue of Lord Shiva, which was constructed to measure the depth of water around it. Adjacent to the lake is a temple dedicated to Lord Ganesha for the devotees to offer prayers. The Upvan Lake was one of the thirteen lakes to be restored by Thane Municipal Corporation using bioremediation technique to clear the silt and marine plants to increase the oxygen level in the water.</string>
+    <string name="des_dharavi">Dharavi is no longer Mumbai\'s biggest slum. But it is certainly the most well-known, thanks to the film, Slumdog Millionaire, which it inspired and which was partly shot there.The slum has severe public health problems, with a long history of epidemics and other disasters.But Dharavi is not only squalor. There are also important businesses there with leather, textiles, pottery, jewelry, and steel being the most important industries, along with a large recycling business. There are reportedly some 300 bakeries.Dharavi’s business is illegal, untaxed and unregulated. Needless to say, the work environment is extremely hazardous and unsafe, resulting in fatalities and disease Dharavi is also a hub of creativity.</string>
+    <string name="des_chotta_khasmir" tools:ignore="TypographyDashes">Chota Kashmir has another Kashmir connection, the Kashmir lake spread on 4 acres of land is opposite Chhota Kashmir and right over the street. It is famous for the boat rides, and the colourful two or four–seater boat will surely catch your attention. The rides are accessible between 11:00 AM to 3:00 PM. You can enjoy the boat rides for 30 minutes or 50 minutes in a pocket–friendly way. The chirping of birds, fresh air, and quiet environment add some extra charm to your boat ride.This is a wonderful garden situated at a distance of 3-4 km from the Goregaon side door and on the highest point of a little mount.Consequently, it is properly called Chota Kashmir.It overlooks the rest of the Aarey Colony.</string>
+    <string name="bandra">Bandra</string>
+    <string name="bandra_is_often_called_nthe_queen_of_suburbs_nand_with_good_reason">Bandra is often called\nthe “Queen of Suburbs”\nand with good reason</string>
+    <string name="chembur">Chembur</string>
+    <string name="chembur_des">Chembur is the hub of\nall the locations as it\nis centrally located\nand the connectivity it\nhas makes prominent\nArea amongst all \nother location</string>
+    <string name="cst">Chhatrapati\nShivaji\nTerminus</string>
+    <string name="hot_places">Places</string>
+    <string name="hot_food">Food</string>
+    <string name="hot_shopping">Shopping</string>
+    <string name="cst_action_bar_text">C.S.T</string>
+    <string name="cst_des">C.S.T area is\nfull of tourist spots</string>
+
+    <string name="click">Click To Know More…</string>
+    <!--    here bandra places listview info is kept-->
+
+    <string name="bandstand">Bandra Bandstand</string>
+    <string name="bandStand_short_info">Bandstand is a long walkway along the sea on the western coast of Mumbai,It is a popular hangout spot, a jogging track and a park.</string>
+
+    <string name="st_andrews_church">St. Andrew\'s Church</string>
+    <string name="st_andrews_church_short_info">St. Andrew\'s Church is one of the oldest churches in Mumbai, It stands on the sea-shore of the Bandra suburb of Mumbai</string>
+
+    <string name="bandra_talo">Bandra Talao</string>
+    <string name="bandra_talo_short_info">The lake is formerly known as Lotus Tank and is a Grade II heritage structure. The lake was also called "Motha Sarovar".</string>
+
+    <string name="mount_carmel">Mount Carmel Church</string>
+    <string name="mount_carmel_short_info">It was built in 1894 by Jesuit Missionaries was blessed and inaugurated on 11 February 1981.</string>
+
+    <string name="i_love_mumbai">I Love Mumbai</string>
+    <string name="i_love_mumbai_short_info"> It is the most happening part of the city and it is where all the action unfolds day after day, night after night.</string>
+
+
+    <!--   here bandra food listView info is kept -->
+    <string name="pali_bhavan">Pali bhavan</string>
+    <string name="pali_bhavann_short_info">Pali Bhavan is an extremely gorgeous place with beautiful interiors and kind of vintage look.Famous for its niche crowd and amazing ambiance</string>
+
+    <string name="elco_restaurant">Elco Restaurant</string>
+    <string name="elco_short_info">When in Mumbai and you wanna try the best pani puris in town then Elco should be on top of your check list!!! The best pani puri and moreover they are served clean</string>
+
+    <string name="persian_darbar">Persian Darbar</string>
+    <string name="persian_darba_short_info">Persian Darbar located at Linking Road Bandra is one of the best in town when it comes to Mughlai cuisine.it\'s a nice place to visit with family and friends.</string>
+
+    <string name="tava_restaurant">Tavaa Restaurant</string>
+    <string name="tava_short_info">A great place in Linking Road, Bandra West, it is praised for its stylish presentation, tasty and hygienic food at reasonable prices.</string>
+
+
+    <!--    here bandra shopping listView info is kept-->
+    <string name="linking_road">Linking Road</string>
+    <string name="linkin_road_short_info">It\'s a busy area. Expect crowds and chaos as stall holders compete for shoppers, and shoppers compete for discounted items. Bargain hard.</string>
+
+    <string name="link_square_mall">Link Square Mall</string>
+    <string name="link_sqaure_mall_short_info">Herein the shops are much larger and spread over a span. Some of the brands include Levis, Gas, Mufti, etc</string>
+
+    <string name="wooden_design">Wooden Design</string>
+    <string name="wooden_design_short_info">It is a home furnishing paradise. The shop sells not only home furnishings but also wallpapers, flooring, sofas, chairs, etc.</string>
+
+    <string name="link_corner">Link Corner</string>
+    <string name="link_corner_short_info">The Link Corner is one of Mumbai\'s most favourite and most visited shopping markets. It is not a typical shopping mall.</string>
+
+    <!--    here Chembur famous places listview info kept-->
+    <string name="fine_arts_society">Fine Arts Society</string>
+    <string name="fine_arts_society_short_info">This theatre is known for its plays and cultural classes.This large auditorium is where several dance and music performances</string>
+
+    <string name="bombay_golf_club">Bombay Golf Club</string>
+    <string name="bombay_gluf_club_short_info">The Bombay Presidency Golf Club in Chembur is one of the oldest and most popular golf courses in Mumbai city.</string>
+
+    <string name="chembur_gymkhana">The Chembur GymKhana</string>
+    <string name="chembur_gymkhana_short_info">Chembur Gymkhana,has a spacious banquet hall that can be used for pre-wedding events, weddings and other social functions.</string>
+
+    <string name="rcf">RCF</string>
+    <string name="rcf_short_info">It is a solo ground with 60 meters boundary.This facility also provides off street parking, scoreboard and pavilion  and sitting arrangement is also available.</string>
+
+    <!--    here  details of chembur food for listview is kept-->
+    <string name="nandu_vada_pav">Nandu Vada Pav</string>
+    <string name="nandu_vada_pav_shot_info">Nandu Aunty is serving traditional and extremely tasty vada pavs for over 20 years now! </string>
+
+    <string name="jhama">Jhama</string>
+    <string name="jhama_short_info">The offerings at Jhama Sweets in Chembur include delectable Indian sweets, local snacks and much more.</string>
+
+    <string name="main_lunch_home">Mani’s Lunch Home</string>
+    <string name="main_lunch_home_short_info">A famous joint for its indulgent thalis, all of them come with unlimited sambar and chutney.</string>
+
+    <string name="china_villa">China Villa</string>
+    <string name="china_villa_short_info">This place called China Villa, in Chembur, is a complete package for good Chinese food. Good ambience.</string>
+
+    <!--    here details of chembur shopping for listView is kept-->
+
+    <string name="k_star">K-Star</string>
+    <string name="k_star_short_info">K Star Mall is teeming with shoppers, families, couples, cinema goers and college students out for a leisurely outing</string>
+
+    <string name="mahavir_home_store">Mahavir Home Store</string>
+    <string name="mahavir_store_short_info">Mahavir Home Store has been the brand of choice for various domestic needs of numerous Customers.</string>
+
+    <string name="cubic">Cubic Mall</string>
+    <string name="cubic_short_info">Choose from cafe, restaurants to spend your evenings here and shop gourmet,food products, all under one roof.</string>
+
+    <string name="chembur_market">Chembur Market</string>
+    <string name="chembur_market_short_info">Chembur Market offers a large and extraordinary variety of food-stuff ranging from street vendors to high end restaurants.</string>
+
+    <!--    here details of cst places for listView are kept here-->
+
+    <string name="gate_way_of_india">GateWay Of India</string>
+    <string name="gate_Way_of_india_short_info">The Gateway of India is located at the end of Chhatrapati Shivaji Marg in South Mumbai and overlooks the Arabian Sea. </string>
+
+    <string name="asiatic_society_of_mumbai">Asiatic Society Of Mumbai</string>
+    <string name="asiatic_society_of_mumbai_info_short">The Asiatic Society of Bombay\'s library with its treasures of books and periodicals, ancient manuscripts, painted folios, coins, maps and prints. </string>
+
+    <string name="elephanta_caves">Elephanta Caves</string>
+    <string name="elephanta_caves_short_info">Elephanta Caves are a UNESCO World Heritage Site and a collection of cave temples predominantly dedicated to the Hindu god Shiva.</string>
+
+    <string name="taraporevala_aquarium">Taraporevala Aquarium</string>
+    <string name="taraporevala_aquarium_short_info">Taraporewala Aquarium or Taraporevala Aquarium is India\'s oldest aquarium and one of the city\'csts main attractions. </string>
+
+    <!-- here the details of ct food are kept for listview  -->
+    <string name="cst_soldier">The CST Soldier</string>
+    <string name="cst_soldier_short_info">Your options before heading to class? You could a bite at the iconic Leopold’s and Café Mondegar</string>
+
+    <string name="its_lucknowi">It\'s Lucknowi</string>
+    <string name="its_lucknowi_short_info">It is a place where you would want to go to eat NORTH\'S KEBAB and DISHES. The name only tells us how the cuisine will be. </string>
+
+    <string name="persian_darbar_cst">Persian Darbar</string>
+    <string name="persian_cst_info">This particular outlet indeed is bigger and better than the Bandra one. Decorated with Nawabi chandeliers and furnishings, it definitely has a grand dining feel to it.</string>
+
+    <string name="pizza_by_the_bay">Pizza By The Bay</string>
+    <string name="pizza_by_the_bay_info">Pizza By The Bay has been an iconic brand in Mumbai\'s pizza dining history.</string>
+
+
+    <!--    here the deatails of cst shopping is kept-->
+    <string name="fashion_street">Fashion Street</string>
+    <string name="fashion_street_short_info">Once you get into Fashion Street, don\'t be surprised if you are surrounded by a horde of stomping students and teenagers.</string>
+
+    <string name="crawford_market">Crawford Market</string>
+    <string name="crawford_market_short_info">a famous shopping area in South Mumbai, to stock your bags with a myriad of things like cosmetic, food, decorative goodies and household items.</string>
+
+    <string name="manish_market">Manish Market</string>
+    <string name="manish_market_short_info">Manish Market in Mumbai, situated on Ramabai Ambedkar Marg, is a famous wholesale market for China products.</string>
+
+    <string name="cr_mall">CR2 Mall</string>
+    <string name="cr_mall_short_info">Its South Mumbai\'s first and only shopping mall-cum-multiplex. It has redefined the mall experience while adding colour to the business hub</string>
+    <string name="address">Address:</string>
+
+
+    <!--    address of places in bandra-->
+    <string name="bandstand_address">Bandstand Road,\nBandra West,\nMumbai 400050.</string>
+    <string name="st_andrews_church_address">115, Hill Rd,\nOld Rajaram Wadi,\nBandra West, Mumbai 400050.</string>
+    <string name="bandra_talo_address">Bandra West,\nMumbai 400050.</string>
+    <string name="mount_carmel_address">81A, Chapel Rd,\nGeneral Arunkumar Vaidya Nagar,\nBandra West, Mumbai 400050</string>
+    <string name="i_love_mumbai_address">Nargis Dutt Nagar,\nNityanand Nagar, Reclamation,\nBandra West, Mumbai 400050.</string>
+    <!--   description of place in bandra -->
+    <string name="bandstand_des">Bandra Bandstand or Bandstand Promenade is the popular promenade in the queen suburbs of Bandra in Mumbai. It boasts of a joggers’ strip and a park making it quite a popular hangout spot. Dotted with food junctions and sprinkled with hawkers selling street snacks, the promenade is replete with swarms of people at all points of the day. Besides presenting an enthralling picture of the adjacent sea and the mesmerising skyline, Bandstand also boasts of being Shahrukh Khan’s residential place, which is a major pull for the tourists.Towards the end of the promenade is the amphitheatre, which is used to host various cultural events and concerts. Not far away is located the Bandra Fort and Bandra Sea Link, are also popular tourist attractions.</string>
+    <string name="st_andrews_des">Andrew, like his brother Simon Peter, was a fisherman. He became a disciple of the great St. John the Baptist, but when John pointed to Jesus and said, “Behold the Lamb of God!” Andrew understood that Jesus was greater. At once he left John to follow the Divine Master. Jesus knew that Andrew was walking behind him, and turning back, he asked, “what do you seek?” When Andrew answered that he would like to know where Jesus lived, Our Lord replied, “Come and see.” Andrew had been only a little time with Jesus when he realized that this was truly the Messiah.From then on, he chose to follow Jesus. Andrew was thus the first disciple of Christ. Next, Andrew brought his brother Simon (St. Peter) to Jesus and Jesus received him, too, as His disciple.</string>
+    <string name="bandra_talo_des">‘Bandra Talao’, Which was also known and called as ‘Motha Sarovar’, ‘Swami Vivekanand Sarovar’, ‘Bandra Lake’ and ‘Lotus Tank’ has a past history relating to these names it is known for. Talao is the Hindi word for any local Lake and now this place commonly called ‘Bandra Talao’ was once a beautiful and clean water lake where residents use to go swimming, fish farming activities were seen, Paddle boat rides were possible till late 90’s and it had lotus flowers floating around giving a soothing experience although was just a simple water body then without any makeover.Since 2011–2012, the news about facelift and makeover project of this place flashing in various newspapers and other media created huge expectations between locals and people like me writing about same.</string>
+    <string name="mount_carmel_des">The Church of Our Lady of Mount Carmel, Bandra is a Roman Catholic church in Bandra, Mumbai. It was built in 1894 by Jesuit Missionaries. As the catholic population in Bandra increased in the latter half of the 20th century, a new modern structure was constructed in its place. The new church was blessed and inaugurated on 11 February 1981 by Archbishop The authorities of St Andrew Church and Mount Mary Chapel in Bandra provided land for the erection of the church in 1894 to cater to the 215 families living in the present Chapel Road and Bazaar Road areas that were separated in 1891 from the St Peter Church (then under the Propaganda Jurisdiction) with the permission of the Holy See in 1975 Cardinal Valerian Gracias, Archbishop of Bombay, laid the foundation stone of the new church building</string>
+    <string name="i_love_mumbai_des">Mumbai (formerly known as Bombay), is the capital of the state of Maharashtra and is the most populous city in India. The city’s change in name did not alter the sentiments Mumbaikars (people from Mumbai) have for this place. People from all walks of life flock to the city every day to earn a living. Mumbai is the heartbeat of all Mumbaikars no matter where they settle! The Hindi movie industry, popularly known as ‘Bollywood’ is the largest producer of movies in the world. One of the best experiences in Mumbai is its rains. All Mumbaikars encounter a roller coaster ride every day while traveling on potholes to reach their destinations Mumbai has a diverse culture that shares and embraces the essence of all festivities around the year.Cricket is one of the most famous and loved sport.</string>
+
+
+<!--    address of places in chembur-->
+    <string name="fine_art_address">Fine Arts Cultural Centre Fine Arts Chowk,\nRamakrishna Chemburkar Marg,\nPostal Colony,\nChembur, Mumbai 400071.</string>
+    <string name="bombay_gold_club_address">CG Rd, Borla, Union Park,\nChembur, Mumbai 400074.</string>
+    <string name="chembur_gym_khana_address">16th Rd,\nnear Ambedkar Garden, Chembur Gaothan,\nChembur, Mumbai 400071</string>
+    <string name="rcf_address">RCF Krida Sankul Sports Complex,\nRCF Colony,\nChembur, Mumbai 400074.</string>
+
+<!--    descripiton of places in chembur-->
+    <string name="fine_art_des">In 1962, a team of selfless volunteers in Chembur got together on 26th January, the Republic Day and decided to start a Cultural Society to promote Classical Music, Dance and Drama and hold programmes for the public. A temporary office was set up in a small garage at 15th Road in Chembur and a beginning was made.The Society grew in its membership and stature and the organisers\' ambition also kept pace and thus came the dream of putting up an Auditorium in Chembur. The Maharashtra Government allotted a piece of land and the Foundation Stone was laid by Shri Shankarrao B Chavan, the then Chief Minister of Maharashtra. The Society\'s contribution in the field of education in music, dissemination of knowledge of the performing fine arts.</string>
+    <string name="bombay_glof_club_des">The BPGC is the most prestigious golf club in Mumbai and in 2009 underwent extensive redesign and  modifications to the course. It\'s a very demanding course and has a large member community that is largely focused on golf.It all began in 1927, with the founding of a club with the rather unimaginative name of "The New Club Ltd.", at Sewree on reclaimed land belonging to the port trust. The golf course at the Bombay Presidency Golf Club is amongst the more memorable ones you play in India. It is one of the most prestigious clubs in India and is an exclusive members golf club with limited access to visitors. There are just a couple of golf courses in Mumbai which are centrally located and this is one of them.</string>
+    <string name="chembur_gym_khana_des">The Gymkhana proposition was now increasing in dimensions and a provisional committee decided on the location for the playground on the 16th road. The efforts bore fruit and the consent of the Collector for use of the land on lease was obtained A public meeting of the residents was held on the yet unguarded plot of land on 16th Road in the shade of still standing Karanja trees (Nov. / Dec. 1947) and the first Managing Committee of the Gymkhana was constituted (under the Presidentship of Mr. Jabir Ali). The Committee started its business in right earnest and Chembur Gymkhana had a constitution. The Collector of BSD was approached for the grant of lease of the land. Members were enrolled as Patrons, Life Members and ordinary members.The Gymkhana also conducted a prestigious Basket Ball tourney too.</string>
+    <string name="rcf_des">Situated in huge clean and lustrous green RCF township in Chembur. RCF sports club is very big in size and houses a fullsize cricket, football, volleyball, tenniscourt outdoor grounds. It also inhouses indoor badminton, table tennis, fully equipped gym, a small swimming pool with children park for small kids. Nicely maintained for encouraging sporting environment. Kudos to the authorities. Complete full size cricket ground and pavilions. Well curated cricket pitch. Also gallery and seating area for audience. The place is a sight for sore eyes in a megacity like Mumbai. Green and surrounded by trees the club offers peace of mind and a quiet ambience.  Monsoon season is the best to get a feel of the place. Large ground with separate area for cricket, football, tennis, swimming,gym and many more.</string>
+
+
+<!-- address of places in cst-->
+<string name="gate_way_of_india_address">Apollo Bandar,\nColaba,\nMumbai 400001</string>
+<string name="asiatic_library_address">Town Hall, Shahid Bhagat Singh Road Horniman Circle,\nnear RBI, Fort,\nMumbai 400023.</string>
+    <string name="elephanta_address"> Gharapuri,\nMaharashtra 400094</string>
+    <string name="taraporeal_address">Netaji Subhash Chandra Bose Road,\nMarine Drive,\nnear Charni Road, Mumbai 400002.</string>
+
+<!-- description of places in cst   -->
+    <string name="gateway_of_india_des">The Gateway of India is an arch-monument built in the early twentieth century in the city of Mumbai, in the Indian state of Maharashtra. It was erected to commemorate the landing in December 1911 at Apollo Bunder, Mumbai (then Bombay) of King-Emperor George V and Queen-Empress Mary, the first British monarch to visit India. At the time of the royal visit, the gateway was not yet built, and a cardboard structure greeted the monarch. The foundation stone was laid in March 1913 for a monument built in the Indo-Saracenic style, incorporating elements of 16th-century Marathi architecture. The final design of the monument by architect George Wittet was sanctioned only in 1914, and construction was completed in 1924. The structure is a triumphal arch made of basalt.</string>
+    <string name="asiatic_library_des">The Asiatic Society of Mumbai was founded by Sir James Mackintosh, a distinguished lawyer, jurist and public figure in England who became the Recorder or the King’s Judge for Bombay. Known then as the Literary Society of Bombay, it met for the first time on Nov 26, 1804 and aimed at “promoting useful knowledge, particularly such as its now immediately connected with India.”  Its formally stated objective was the investigation and encouragement of Oriental Arts, Sciences and Literature.  In this venture, Mackintosh was influenced by Sir William Jones who, two decades earlier, had established the Asiatic Society of Bengal.  The Literary Society purchased the collections of the Medical and Literary Library, a private library founded in 1789, and this formed the nucleus of the Library.</string>
+    <string name="elephanta_des">The Elephanta Caves contain rock cut stone sculptures that show syncretism of Hindu and Buddhist ideas and iconography. The caves are he from solid basalt rock. Except for a few exceptions, much of the artwork is defaced and damaged. The main temple\'s orientation as well as the relative location of other temples are placed in a mandala pattern. The carvings narrate Hindu mythologies, with the large monolithic 20 feet (6.1 m) Trimurti Sadashiva (three-faced Shiva), Nataraja (Lord of dance) and Yogishvara (Lord of Yoga) being the most celebrated. These date them between 5th and 9th century, and attribute them to various Hindu dynasties. They are more commonly placed between 5th and 7th centuries. Most scholars consider it to have been completed by about 550 CE.</string>
+    <string name="taraporeal_des">We visited this place to see a huge variety of fishes but unfortunately the number of fishes has decreased and the tanks are also no very clean as they should be. The information near the fish tanks are not readable, they’ve pasted papers which has information. Expecting that they take entry fees of Rs.60, everyone expects the place to be more good and informative; we would mind the fees to increase and get to see even more variety and not only empty tanks.The place is located right opposite to Marine lines and the nearest railway station is Charni Road or Marines line. 2,000 fishes of over 400 species and has been renovated at a cost of Rs.22 crore (approx Rs 7.5 crore for aquariums and Rs. 16.5 crore for construction work done by Public Works department) </string>
+
+
+<!-- here bandra food places of bandra are kept-->
+    
+    <string name="palai_bhavan_address">10, Pali Mala Rd,\nAdarsh Nagar,\nBandra West, Mumbai 400050</string>
+    <string name="elco_address">2A, Elco Market,\nHill Rd, Bandra West,\nMumbai 400050</string>
+    <string name="perian_darbar_address">Moray Mahal\nLinking Rd, Bandra West,\nMumbai, 400050</string>
+    <string name="tava_address">Saqib CHS,\nJunction of 24th, Turner Rd,\nBandra West, Mumbai 400050.</string>
+<!-- here description of food of bandra are kept-->
+
+    <string name="palai_bhavan_des">Pali Bhavan is an extremely gorgeous place with beautiful interiors and kind of vintage look. Famous for its niche crowd and amazing ambiance, you might find celebrities dinning here too. The food is tasty but one might find it a bit expensive, This place has a very vintage feel,loved the atmosphere,food was nice especially loved butter chicken and rabdi at the end, it was definitely worth a visit, it a Nice gem in rough neighborhood. Step inside to a completely different world. Clean, professional, great wine selections and food is outstanding local Indian cuisine.Even before the food, the atmosphere of the restaurant, the interior design is amazing. It is kind of hidden location that you cannot expect such a restaurant behind that door.Service was good and people were friendly. .</string>
+    <string name="elco_des">When in Mumbai and you want to try the best pani puris in town then Elco should be on top of your check list!!! The best pani puri and moreover they are served clean! If you are a hygiene conscious person then you are safe here!  the bhel puri, pani puri, dahi puri and triple Szechwan rice all of which were nice but they had run out of aloo chaat so we weren\'t able to try that unfortunately. The surprise standout was the 3 in 1 kulfi - butterscotch, blackcurrant and tutti frutti - a delicious burst of sweet creamy flavour! The food is fantastic and service quick and efficient. The place is busy with locals too - always a good sign! This is one of the best places to enjoy some quick meal at a very reasonable and pocket friendly place and i will definitely recommend it</string>
+    <string name="persian_darba_des">The Name Persian Darbar itself reciprocates the Mughal Dynasty and the legacy of Mughalai Cuisine.. Established in 1978, Persian Darbar is all about Mesmerizing Royal Ambience and Service, Rich Mughal Recipes, Love For Quality Food and Maintaining Consistent Taste over the years.. They Mainly Serve Mughalai Dishes, along with North Indian and Chinese Cuisine.. They are Experts in Serving various Lip-smacking Biryanis and melt in mouth Kebabs.. But their another USP is Mutton Raan Biryani which got them a title of “Raan King of Mumbai”.. Lets dig in to know more. In my earlier blogs I have already praised about the magic of well marinated and cooked Raan.. Whenever I heard word Raan, I start salivating thinking about that oh-so-succulent and tastiest piece of meat.. So when I planned for this Raan Biryani, </string>
+    <string name="tava_des">Taking care of hunger pangs till as late as 1:00AM, Tavaa is a casual dining restaurant serving North Indian, Chinese, Biryani, Mughlai preparations. A great place in Linking Road, Bandra West, it is praised for its stylish presentation and is a nice joint to visit when one is looking to satiate hunger pangs with tasty, hygienic food at reasonable prices, One Must have{Tandoori Chicken Mutton Curry Gulab Jamun Butter Chicken Chicken Biryani Dal Makhani Brownie Kulfi Paratha Fish Chicken Tikka Noodles Butter Naan Fried Rice Manchow Soup Manchurian} Menu is perfect, something for everyone. Service was awesome. The food was absolutely wonderful, from preparation to presentation, very pleasing. This place gives you an array of selection in the Non Veg. category and are really tasty</string>
+
+
+
+<!--here chembur food places address are kept-->
+
+    <string name="nandu_vada_pav_address">435, DK Sandu St,\nChembur Gaothan,\nChembur, Mumbai 400071</string>
+    <string name="jhama_address">CG Rd, Camp(E),\nChembur Colony, Chembur,\nMumbai 400074</string>
+    <string name="mani_address">Komal Building, 86,\nGround Floor, 2nd Rd,\nChembur,Mumbai 400071</string>
+    <string name="china_villa_address">303, Sion - Trombay Rd, Borla,\nUnion Park, Chembur,\nMumbai 400071</string>
+<!-- here chembur food description are kept    -->
+    <string name="nanu_vada_pav_des">In 1985, Nandu Aunty and her husband started a vada pav cart with only ₹2000 in hand. At that time, they used to sell a vada pav for only 75 paise! Gaining popularity with each vada pav they sold, Nandu Vada Pav soon became people’s favourite – Aunty Vada Pav. Since 20 years, the stall is located close to Chembur post office and they serve everyone from college students, office going professionals, locals in the area, or anyone that passes by. If we talk about the taste of the vada pavs, Aunty ji is born and brought up in Mumbai and is well aware of people’s need for authentic taste of food  and that’s why she serves traditional and extremely tasty vada pavs. She is known for serving super soft vadas along with dry and spicy chutneys. The people have loved her stall since the first day</string>
+    <string name="jhama_des">Jhama initially started with 8 – 10 sweet varieties which later now have more than 200 different types of sweets, Namkeens, Cookies, Chocolates, Dry Fruits.Jhama sweets have been an iconic place which have rich history of serving the best Gulab Jamun and Sev Barfi loved by localities of Mumbai and celebrities. Rajasthani kalakand, made with whole milk, which gives it a silky texture and a deep milky flavor is also one of the drool worthy sweet.Apart from the regular ones, they also serve amazing Bengali sweets. There is a section for street food items which are equally good. We provide ready-to-eat snacks, savories and different types of sweets. From sourcing raw materials to their conversion into finished products,  every process confirms to the International norms (HACCP) of Quality and Safety</string>
+    <string name="mani_des">The restaurant serve exotic perfectly light Idly, mouth watering Medu wada, Potato wada, Uppuma, Sheera, Pongal, in the morning session and in addition Kela Bajji, Vegetable Bonda, Dal wada, Rasam wada, Dahi wada, Onion pakkoda, Mysore bonda, in the evening session and vast varieties of crisp Dosa’s. All these served with limitless accompaniments of chutney and spicy delicious Madras Onion Sambar. One can consume as much as chutney and sambar as desired without paying any extra cost. This is the only restaurant in Mumbai that serve chutney and sambar in limitless quantity happily free of charge. Mulagapodi the so-called Powder Chutney really have a magical taste and it further enhances the quality and intake. In addition in the afternoon session varieties Rice such as Dahi Rice, Bisibellabath, Tomatoe Rice, Lemon Rice.</string>
+    <string name="china_villa_des">Making way for a hearty meal is China Villa in Mumbai. Established in the year 2018, this place is synonymous with delicious food that can satiate all food cravings. It is home to some of the most appreciated cuisines. So as to be able to cater to a large number of diners, it occupies a favourable location at Chembur East. Shop 8 &amp; 9, Sunder Apartments,,Opposite Diamond Garden,Sion Trombay Road,Chembur East-400071 is where one can visit the venue. Courtesy to this strategic location, foodies in and around the neighborhood can walk in to this eating house conveniently without facing any hassles related to commuting to this part of the city. It is one of the most sought after Home Delivery Restaurants in Chembur East. This is a one of the renowned Home Delivery Restaurants in Mumbai.</string>
+
+
+
+<!--    here cst food address are kept-->
+<string name="the_soldier_address">Ali Chambers, M Shetty Marg,\nKala Ghoda, Fort,\nMumbai 400001</string>
+    <string name="the_lucknowi_address">CST, Shahid Bhagat Singh Road 301,\nDhan Mansion, Adi Marzaban Path,\nMumbai 400001</string>
+    <string name="persian_darbar_address_cst">CST Road Junction Shop No 17,\nKanakia Zillion, LBS Marg,\nCST Road Junction, BKC Annexe,\nMumbai 400070</string>
+    <string name="pizza_by_the_way_address">Soona Mahal, 143,\nMarine Dr, Churchgate,\nMumbai 400020</string>
+    <!--    here cst food description are kept-->
+    <string name="the_soldier_des">The lone hungry soldier, standing high in its own rite is the St. Xavier’s College in the CST area of SoBo. Here, if you plan on attending morning class after stayin’ up too late, you’re bound to get hungry soon.Your options before heading to class? You could a bite at the iconic Leopold’s and Café Mondegar {opens at 7.30 and 7am respectively, or you could get a warm bun maska and chai at Kyani and; Co. at 8am, or simply a little pav bhaji at Cannon Pav Bhaji. The Iran Like Restaurant is your best bet for something in the wee hours in the morning, as it opens at 5am {insert shocked emoji here}. And of course, when all else fails, there’s always an egg muffin to be had at McD on Causeway from 7.30am</string>
+    <string name="the_lucknowi_des">Amidst the hustle bustle of Mumbai CST Area, Its Lucknowi is a delightful casual dining that will amuse you. With an outspread menu that is fairly priced, It\'s definitely worth a visit more than once. Visit here in the company of friends and family for lip smacking food and some fun times. People Say This Place Is Known For  Gastronomical Experience, Comfortable Seating Area, Humble Staff, Attentive Staff, New Restaurant, Authentic Food. Popular Dishes Wheat Tandoori Roti, Nalli Nihari, Shahi Tukda, Galouti Kebab, Mughlai Food, Mutton Biryani, This place seves amazing galouti kebab in the town. It just melts in the mouth , followed by very soft rumaali roti.</string>
+    <string name="pd_cst">PD is highly known for it’s delicious range of Mughlai cuisine and has been doing amazing in the restaurant sector for quite a while now. Originated from Bandra and moved to Andheri, and now BKC. This particular outlet indeed is bigger and better than the Bandra one. Decorated with Nawabi chandeliers and furnishings, it definitely has a grand dining feel to it. Anyone would love to dine here looking at the ambiance. The staff is friendly and have a good knowledge about the food served. The service was quick and they were quite attentive to every detail throughout the meal. Here’s what I ordered here and thoroughly relished each and every bite.Kiwi Cooler and Litchi Shake were the drinks we ordered and they were well prepared and quite refreshing.</string>
+    <string name="pizza_by_the_bay_des">Pizza By The Bay has been an iconic brand in Mumbai\'s pizza dining history. The space that first opened as Talk of the Town in 1968 has been transformed into a bright, casual, all-day dining destination. This place is not only famous for it\'s mouth-watering pizzas but also the salad buffet which has been a super-hit amongst the patrons for several years. The introduction of breakfast has made it Churchgate\'s stand-out morning destination. Open from 7 am to 1.30 Am. An excellent selection of pizzas with “real” cheese. It’s nice to go in the evening and then walk off your meal along marine drive Very courteous staff.Excellenct ambience.</string>
+
+
+
+<!--here shopping places bandra address are kept -->
+    <string name="linking_road_address">Linking Rd,\nBandra West,\nMumbai 400050.</string>
+    <string name="link_square_mall_address">33rd Linking Road,\nopposite KFC,\nMumbai 400050</string>
+    <string name="wood_design_address">Anita Villa,\nStation Road Opp Bandra Bus Depot,\nBandra West, Mumbai 400050</string>
+    <string name="link_corner_address">Linking Rd,\nOpp Persian Darbar Restaurant,\nBandra West, Mumbai 400050</string>
+<!--here shopping places bandra descriptions are kept-->
+    <string name="linking_road_des">Linking Road is particularly well known for its huge variety of cheap shoes — stall after stall of them. Prices start from only a couple of hundred rupees. But at that price, don\'t expect them to last for long before you have to repair them!Clothes and footwear (children and adults) available at great prices. Learn to bargain if you want to visit this place. I have seen people buying stuff for Rs. 700 and then bought the same stuff for Rs. 250. I strolled around in the first few stalls only and found mostly clothes and footwear. Quality is not the best but the products are certainly value for money. The place is flashy, full of displays and shops. Eatables on road side, variety of shops.. all good except the price.</string>
+    <string name="link_square_mode_des">In a quest to decode all of Mumbai’s malls, we started with the one closest to the LBB, Mumbai HQ. Link Square Mall {or Croma wala mall in Bandra West} is a confusing place. Y’all probably know of it because it houses Theobroma, but there are treasures unexplored there. Here are the things we’d recommend from there:  Ground floor of Link Square is full of budget shops for women, and while at times, it may also feel like Linking/Hill road in an AC setting, you find gems in here Sneakerheads, you will be happy know that on the second floor of the mall, there is a huge shop called Shoe Zone The second floor of Link Square Mall is filled with shops for men, all on a budget.</string>
+    <string name="wooden_des">Wooden Street has the most ergonomic design of all furniture in solid wood. If you are looking for that rich and quality finish, Wooden Street is one roof for all your needs. With a flexibility to choose finishes and customised dimensions, you can actually get a furniture item specially made for you. We had ordered the complete home furniture and we\'re not disappointed with what was shown and what was delivered. However, the delivery times are a bit longer but it is worth the wait. Even the after Sales service is good. I recommend Wooden Street for solid wood furniture,The products of wooden Street is simply superb just as advertised. The look resembles the one portrayed in the website. The feel is extremely luxurious and the products reek of quality. </string>
+    <string name="link_corner_des">It\'s a nice place to have so many things. Basically, if you are in Linking road Bandra, so it\'s most famous Mall in the vicinity.. If you\'re not into street shopping and prefer buying it from malls which gives you variety in choices and prices There are no big brand stores here - found only small local stores selling garments, shoes, accessories. Sabai spa is located here for people wanting relaxation after a hard day work. Food court was not operational and found 2 big restaurants with dedicated lifts - Global Fusion and TAP restobar. I had visited TAP for lunch and had a good time.The anchor store Croma is in the basement and there are restaurants at the upper levels. </string>
+
+<!--   stores shopping address : place = chembur-->
+        <string name="k_star_address">Sion - Trombay Rd, near Chembur,\nDiamond Garden, Basant Garden,\nChembur, Mumbai 400071</string>
+    <string name="mahavir_home_store_address">Gr floor Kukreja Arcade,\n19th Rd, Chembur Gaothan,\nOpp. Bata ShowroomChembur,\nMumbai 400071</string>
+    <string name="cubic_mall_address">Dr C G Road, opp Borla Society,\nVasant Vihar Complex, Chembur East,\nMumbai 400074</string>
+    <string name="chembur_market_address">Postal Colony, Chembur,\nMumbai 400071</string>
+<!-- stores shopping description : place = chembur-->
+    <string name="k_star_des"> K Star Mall in Chembur East is teeming with shoppers, families, couples, cinema goers and college students out for a leisurely outing during its operational times of 10.30 am to 10.30 pm on all days. The mall is a tall building consisting of ground plus six floors. The shopping space takes up a sizable chunk of the building with leading high-end brands like Ethnicity, Food Bazaar and Fab India. These shopping outlets cater to fashion, grocery, jewellery, watches, electronics and other categories. A number of local branded shops are also available to the shoppers. Visitors can catch the latest in cinematic action at Cinepolis, a trendy five screen multiplex located on one of the top floors. A dedicated entertainment zone is also available for kids and families to spend some quality time with each other.</string>
+    <string name="mahavir_store_des">Mahavir Home Stores is an iconic brand with an array of stores located in the western suburbs.Out store is a testament of the blend of the traditional values and latest ideas which has made our band synonymous with a large section of homemakers in the western suburbs. We have a wide range of products, both domestic and international, and each product is selected based on pure utility, unmatched quality and value for money. With over 200+ brands, we have a wide range of selection for our customers for their home ranging from kitchen appliances, dinnerware, home improvements. We also cater to the needs of the corporate and hotels with regards to their daily requirements. With our constant endeavor to provide new and best products.</string>
+    <string name="cubic_des">Cubic Mall is your one-stop destination for food, entertainment, health and fitness.Set in the heart of Chembur, visit here to catch up on the latest movies and to satisfy your food cravings.Choose from cafe, restaurants to spend your evenings here and shop gourmet food products, all under one roof. Modern building housing a cinema, supermarket, casual eateries and fast food options. The Pot Purri, has a pleasant vibe to it. The serve scrumptious food and desserts. The staff is professional and the service is pretty quick, Cublic Mall at Chembur is a hub for many bars and dine-in places and “Pot Pourri “is one such fast growing all-day dine-in restaurants and it is fabulous and perfect place for the guys who are hunting for some lips-smacking food and tempting drinks. </string>
+    <string name="chembur_market_des">Chembur lies in the Mumbai South Central parliamentary constituency. It used to lie in Mumbai North-East Parliamentary constituency, prior to delimitation in 2008, where it was moved to Mumbai South Central parliamentary Constituency.Try out the Patice, chole and pav if you’re up for a spicy tangy affair. Pair it with cool Lassi or Chaas!, If not Full o way You can visit Koffee Works in Chembur is known for whipping up amazing desserts and cakes along with an impeccable range of coffees. Don’t forget to try out the heavenly New York Cheesecake as well, a customer favourite! There are also baking yummy mango cakes to celebrate the King Of Fruits!</string>
+
+<!--stores for shopping : place = cst {Address}-->
+    
+    <string name="fashion_street_address"> New Marine Lines,\nChurchgate,\nMumbai 400020</string>
+    <string name="crawfrod_market_address">Dhobi Talao,\nChhatrapati Shivaji Terminus Area,\nFort, Mumbai 400001</string>
+    <string name="manish_market_address">16, Dontad St,\nChhatrapati Shivaji Maharaj Terminus Area,\nMandvi, Mumbai 400003</string>
+    <string name="cr_address"> 7, Barrister Rajni Patel Marg,\nNariman Point,\nMumbai 400021</string>
+<!--stores for shopping : places = cst{description}-->
+
+    <string name="fashion_street_des">Fashion Street Mumbai  Fashion Street is one of the most widespread shopping destinations in Mumbai. With over a varied array of 150 shops, Fashion Street promises the ardent shopper a lot more junk and knick-knacks than any large mall or fashionable stores can offer. Located opposite the VSNL office building on M.G. Road, the street is famous for the latest and the trendiest clothing lines in Mumbai. Even designer brands are available here at off-the-cuff prices. A variety of denims, shirts, accessories, hats, footwear and mini-restaurants can be found on this street. Export quality garments in a variety of sizes are unceremoniously dumped in petty shops that attract tourists all the more.A vibrant flea market, Fashion Street is a shopper\'s Eden. Tourists will often find themselves surrounded by over 100 shops.</string>
+    <string name="crawford_market_des">Crawford Market is a popular spot for buying all the household items. Whether you are planning on buying vegetables or poultry, then Crawford Market is the place to be. Crawford Market was the main wholesale market till 1966. Spanning around 72000 sq. yards, this market is also famous for its splendid architecture. Norman and Flemish styles can be seen in the architecture, depicting elements of the old-world charm in a modern city. Situated just towards the north of Chhatrapathi Shivaji Terminus, the market is one of the most popular shopping areas of the city. If one wants to savor how the local dwellers shop, then there is nothing better than heading out to Crawford Market, which is open on 6 days of the week. The Crawford Market offers an exciting shopping experience for those who love to splurge.</string>
+    <string name="manish_market_des">Let’s admit it- we all get thrills out of buying rip-offs. And simply because we can’t always afford what we want. There’s no dearth of duplicate watches here. No, seriously. Every alternate store sells watches and sunglasses in abundance, so be rest assured that you will most certainly find the one you’re looking for. They house copies of brands such as Rolex, Harley Davidson, Police, Tissot, Guess, Tommy Hilfiger, etc – Beyond accessories and electronics, what you will find for dirt cheap here is clothing for men. Have a trek to go for and need something to protect you from the cold? Or have the rains in the city not been too kind to you? Hop over to Manish Market and get your hands on all-season and all-purpose jackets starting at INR 1,250. If you want to buy or exchange your phone, you can check out Manish Market </string>
+    <string name="cr_des">The success of Crossroads found resonance at CR2 at Nariman Point. This new addition combined a multiplex with a shopping mall and included a multi-storey car park. While Nariman Point is the central business district, it lacked meaningful entertainment, shopping and dining space. CR2 has filled this gap in more ways than one.CR2, located in Nariman Point, is South Mumbai\'s first and only shopping mall-cum-multiplex. It has redefined the mall experience while adding colour to the business hub. It flaunts some of the biggest international brands, many of which have opened their first Indian stores at CR2.The imposing edifice features some of the biggest international names in fashion. INOX, the Pan-India multiplex operator, has made its foray in Mumbai at CR2.</string>
+</resources>
